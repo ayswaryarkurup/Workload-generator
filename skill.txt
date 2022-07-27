@@ -1,0 +1,11 @@
+Skill
+Python
+Java
+Analysis
+Scratch
+ASP.Net
+C++
+R
+Graphics	
+C
+FD
